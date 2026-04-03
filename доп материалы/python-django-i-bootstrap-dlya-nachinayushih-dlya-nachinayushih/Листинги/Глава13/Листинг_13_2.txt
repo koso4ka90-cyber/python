@@ -1,6 +1,0 @@
-Options +ExecCGI
-AddHandler wsgi-script .py
-AddDefaultCharset utf-8
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^(.*)$ /WebBooks/WebBooks/wsgi.py/$1 [QSA,PT,L]
