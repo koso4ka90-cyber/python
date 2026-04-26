@@ -19,30 +19,30 @@
 
 ## Расширения для VS Code
 
-- ms-python.python
-- MS-CEINTL.vscode-language-pack-ru
-- donjayamanne.python-extension-pack
-- ms-azuretools.vscode-docker
-- dbaeumer.vscode-eslint
-- technosophos.vscode-make
-- shd101wyy.markdown-preview-enhanced
-- hougesen.mdsf
-- MermaidChart.vscode-mermaid-chart
-- techer.open-in-browser
-- jebbs.plantuml
-- ms-vscode.powershell
-- esbenp.prettier-vscode
-- ms-vscode-remote.remote-ssh
-- rvben.rumdl
-- vitest.explorer
-- tomoki1207.pdf
-- mechatroner.rainbow-csv
-- SonarSource.sonarlint-vscode
-- ms-vscode.makefile-tools
-- Codeium.codeium
-- GitHub.vscode-pull-request-github
-- mintlify.document
-- ms-toolsai.jupyter
+- [ms-python.python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+- [MS-CEINTL.vscode-language-pack-ru](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ru)
+- [donjayamanne.python-extension-pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-extension-pack)
+- [ms-azuretools.vscode-docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+- [dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [technosophos.vscode-make](https://marketplace.visualstudio.com/items?itemName=technosophos.vscode-make)
+- [shd101wyy.markdown-preview-enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+- [hougesen.mdsf](https://marketplace.visualstudio.com/items?itemName=hougesen.mdsf)
+- [MermaidChart.vscode-mermaid-chart](https://marketplace.visualstudio.com/items?itemName=MermaidChart.vscode-mermaid-chart)
+- [techer.open-in-browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser)
+- [jebbs.plantuml](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
+- [ms-vscode.powershell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.powershell)
+- [esbenp.prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [ms-vscode-remote.remote-ssh](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh)
+- [rvben.rumdl](https://marketplace.visualstudio.com/items?itemName=rvben.rumdl)
+- [vitest.explorer](https://marketplace.visualstudio.com/items?itemName=vitest.explorer)
+- [tomoki1207.pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
+- [mechatroner.rainbow-csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- [SonarSource.sonarlint-vscode](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
+- [ms-vscode.makefile-tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.makefile-tools)
+- [Codeium.codeium](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium)
+- [GitHub.vscode-pull-request-github](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
+- [mintlify.document](https://marketplace.visualstudio.com/items?itemName=mintlify.document)
+- [ms-toolsai.jupyter](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter)
 
 ---
 
