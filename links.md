@@ -48,39 +48,39 @@
 
 ## Курсы
 
-https://code-basics.com/ru
-https://education.yandex.ru/handbook/python
-https://stepik.org/catalog/131?free=true
-https://education.yandex.ru/handbook/algorithms
-https://leetcode.com/
-https://chromewebstore.google.com/detail/leetcode-to-russian/omcekcjkhekdifemjbknfbijiabbjhmm?hl=ru&pli=1
-https://yandex.cloud/ru/training/training-pro
-https://stepik.org/course/209514/syllabus
-https://leetcode.com/studyplan/top-interview-150/
+- https://code-basics.com/ru
+- https://education.yandex.ru/handbook/python
+- https://stepik.org/catalog/131?free=true
+- https://education.yandex.ru/handbook/algorithms
+- https://leetcode.com/
+- https://chromewebstore.google.com/detail/leetcode-to-russian/omcekcjkhekdifemjbknfbijiabbjhmm?hl=ru&pli=1
+- https://yandex.cloud/ru/training/training-pro
+- https://stepik.org/course/209514/syllabus
+- https://leetcode.com/studyplan/top-interview-150/
 
 ---
 
 ## Полезные инструменты
 
-https://app.diagrams.net/
-https://miro.com/
-https://mermaid.js.org/
-https://claude.ai/
-https://chat.deepseek.com/
-https://chatgpt.com/
-https://www.perplexity.ai/
-https://giga.chat/
-https://www.lockedinai.com/
-https://www.nvidia.com/en-eu/geforce/technologies/reflex/
-https://www.nvidia.com/ru-ru/geforce/broadcasting/broadcast-app/
-https://github.com/s3rgeym/hh-resume-automate/
-https://easyoffer.ru/
-hh.ru
+- https://app.diagrams.net/
+- https://miro.com/
+- https://mermaid.js.org/
+- https://claude.ai/
+- https://chat.deepseek.com/
+- https://chatgpt.com/
+- https://www.perplexity.ai/
+- https://giga.chat/
+- https://www.lockedinai.com/
+- https://www.nvidia.com/en-eu/geforce/technologies/reflex/
+- https://www.nvidia.com/ru-ru/geforce/broadcasting/broadcast-app/
+- https://github.com/s3rgeym/hh-resume-automate/
+- https://easyoffer.ru/
+- hh.ru
 
 ---
 
 ## Документация
 
-https://docs.astral.sh/ruff/
-https://docs.python.org/3/library/index.html
-https://habr.com/ru/articles/959760/
+- https://docs.astral.sh/ruff/
+- https://docs.python.org/3/library/index.html
+- https://habr.com/ru/articles/959760/
